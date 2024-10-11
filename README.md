@@ -9,4 +9,4 @@ Developed in Java, this program allows users to find out and know what day of th
 - Change appearances and add logo.
 - Display historical images when a historical date is entered.
 
-**Developed using Eclipse IDE.**
+**This program was developed using Eclipse IDE.**
